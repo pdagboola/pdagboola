@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pdagboola
 - 🌱 I’m currently learning express js
-- 📫 How to reach me pdagbool@gmail.com, @_03xd on twitter
+- 📫 How to reach me pdagboola@gmail.com, @_03xd on twitter
 
   
 - 👀 I’m also interested in Blockchain Development
