@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @pdagboola
-- 🌱 I’m currently learning express js
-- 📫 How to reach me pdagboola@gmail.com, @pdagboola on twitter
+- 👋 Hi, I’m Peter and I’m currently building projects with express js
+- 📫 Feel free to reach me on pdagboola@gmail.com, @pdagboola on twitter
 
-  
 - 👀 I’m also interested in Blockchain Development
 
 <!---
